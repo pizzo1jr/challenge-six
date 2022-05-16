@@ -14,3 +14,9 @@
 ![image](https://user-images.githubusercontent.com/102200085/168512880-5431e1b6-a04a-4e56-91a0-b96852e36162.png)
 
 ![image](https://user-images.githubusercontent.com/102200085/168512905-ef501332-64f6-4ad4-96c9-683ac4929434.png)
+
+## Repo 
+https://github.com/pizzo1jr/challenge-six
+
+### Git Hub Page 
+https://pizzo1jr.github.io/challenge-six/
